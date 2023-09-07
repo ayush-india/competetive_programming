@@ -1,0 +1,9 @@
+# ignore everythin
+/*
+/*/
+# but leave these files
+!*.cpp
+!*.c
+# and obvly not the .gitignore
+!.gitignore
+
