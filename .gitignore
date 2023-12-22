@@ -4,6 +4,7 @@
 # but leave these files
 !*.cpp
 !*.c
+!*.sh
 # and obvly not the .gitignore
 !.gitignore
 
