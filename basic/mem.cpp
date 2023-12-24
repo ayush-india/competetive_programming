@@ -1,5 +1,6 @@
-#include <cstring>
-#include <iostream>
+// #include <cstring>
+// #include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
 // Driver Code

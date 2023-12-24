@@ -5,6 +5,7 @@
 !*.cpp
 !*.c
 !/basic/
+!/problems/
 !*.sh
 # and obvly not the .gitignore
 !.gitignore
