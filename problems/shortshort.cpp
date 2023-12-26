@@ -1,5 +1,4 @@
 // https://codeforces.com/contest/1873/problem/A
-// see div4/one.cpp
 
 #include <bits/stdc++.h>
 using namespace std;
