@@ -3,15 +3,13 @@
 using namespace std;
 
 void solve() {
-  int x,y,z;
-
-  cin >> x >> y >> z;
-
-  z = z / 2;
-
-  int j = z / (x*y);
-
-  cout << z / (x*y) << '\n';
+  int n;
+  cin >> n;
+  string s;
+  for (int  i = 0; i < n; i++) {
+    cin >> s[i];
+  }
+  cout << s << '\n';
 
 }
 int main() {
