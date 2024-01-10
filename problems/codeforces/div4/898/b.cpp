@@ -51,6 +51,7 @@
 using namespace std;
 
 int main() {
+	cin.tie(NULL);
     int t;
     cin >> t;
     while(t--){
