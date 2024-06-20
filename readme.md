@@ -1,5 +1,6 @@
 # all usefull resources 
 *https://training.ufds.cc/*
+*usaco*
 *discord serever of ufds*
 *https://codeforces.com/blog/entry/74684*
 // #include <bits/stdc++.h>
